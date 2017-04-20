@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1491360276 source:c:\users\dell\desktop\社会你顾哥\citynet\main.cpp
+	<iostream>
+	"CITYNET.h"
+	<cstdlib>
+
+1491359560 c:\users\dell\desktop\社会你顾哥\citynet\citynet.h
+	<iostream>
+
+1491359560 source:c:\users\dell\desktop\社会你顾哥\citynet\function.cpp
+	<iostream>
+	"CITYNET.h"
+	<stdlib.h>
+	<stdio.h>
+	<queue>
+	<ctime>
+	<fstream>
+
+1491365353 source:c:\users\锐锐\desktop\社会你顾哥\社会你顾哥\citynet\main.cpp
+	<iostream>
+	"CITYNET.h"
+	<cstdlib>
+
+1491365195 c:\users\锐锐\desktop\社会你顾哥\社会你顾哥\citynet\citynet.h
+	<iostream>
+
+1491365166 source:c:\users\锐锐\desktop\社会你顾哥\社会你顾哥\citynet\function.cpp
+	<iostream>
+	"CITYNET.h"
+	<stdlib.h>
+	<stdio.h>
+	<queue>
+	<ctime>
+	<fstream>
+
+1491485298 source:c:\users\geoganlle\desktop\社会你顾哥\社会你顾哥\社会你顾哥\citynet\function.cpp
+	<iostream>
+	"CITYNET.h"
+	<stdlib.h>
+	<stdio.h>
+	<queue>
+	<ctime>
+	<fstream>
+
+1491484617 c:\users\geoganlle\desktop\社会你顾哥\社会你顾哥\社会你顾哥\citynet\citynet.h
+	<iostream>
+
+1491365353 source:c:\users\geoganlle\desktop\社会你顾哥\社会你顾哥\社会你顾哥\citynet\main.cpp
+	<iostream>
+	"CITYNET.h"
+	<cstdlib>
+
+1491557817 source:c:\users\geoganlle\desktop\citynet\main.cpp
+	<iostream>
+	"CITYNET.h"
+	<cstdlib>
+	<fstream>
+
+1491839613 c:\users\geoganlle\desktop\citynet\citynet.h
+
+1492665391 source:c:\users\geoganlle\desktop\citynet\function.cpp
+	<iostream>
+	"CITYNET.h"
+	<stdlib.h>
+	<stdio.h>
+	<queue>
+	<ctime>
+	<fstream>
+
+1491365353 source:c:\users\锐锐\desktop\citynet\main.cpp
+	<iostream>
+	"CITYNET.h"
+	<cstdlib>
+
+1491488206 c:\users\锐锐\desktop\citynet\citynet.h
+	<iostream>
+
