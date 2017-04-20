@@ -2,15 +2,15 @@
 using c++ and matlab (view) to build M lines  among N cities .
 
 please open the file "Citynet4_7.mlapp" with matlab(2016a+)
-you can use the fallow command
+you can use the following command
 
 open("Citynet4_7.mlapp");
 
-the C++ code was wroten by codeblocks, you can use CB open the ".cbp" or other way to build a project with (CITYNET.h,Function.cpp,MAIN.cpp)
+the C++ code was written with codeblocks, you can use CB open the ".cbp" or other way to build a project with (CITYNET.h,Function.cpp,MAIN.cpp)
 
 thank you .
-welcome communication with my e-mail:
-
+welcome communication with me ;
+my e-mail:
 geoganlle@163.com
 
 geoganllegoo@gmail.com
