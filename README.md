@@ -9,7 +9,7 @@ open("Citynet4_7.mlapp");
 the C++ code was wroten by codeblocks, you can use CB open the ".cbp" or other way to build a project with (CITYNET.h,Function.cpp,MAIN.cpp)
 
 thank you .
-welcom communication with my e-mail:
+welcome communication with my e-mail:
 
 geoganlle@163.com
 
