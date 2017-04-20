@@ -15,7 +15,18 @@ geoganlle@163.com
 
 geoganllegoo@gmail.com
 
-Problem description (by Chinese):
+Problem description:
+
+Construct a communication network connecting n cities.
+
+(1) Input: the number of cities n (city number 1 to n), the number of inter-city communication lines m, randomly generated m different cities (a, b), said the communication lines between cities. (M, q), if the city p and the city q has been connected, then this communication line is redundant. If the communication network is redundant, that is, when the communication line (p, q) is added to the m communication line, , Will be removed, otherwise it will join the communications network. Output: Graphically displays the result of the communication network and the redundant line information, and stores the information in a file.
+
+(2) In order to improve the reliability of the communication network, it is necessary to ensure that if any communication line fails, it will not affect the connectivity of the whole communication network. For (1) to enter, to determine whether the network is a reliable network, and the network graphics display and file preservation.
+
+(3) the establishment of inter-city communication network, each city has a communications switch, directly or indirectly connected with other cities. The switch may be faulty and need to be equipped with a backup switch. But the number of spare switches is limited, not all equipped, only to some important city configuration. So that: If a city due to the switch is damaged, not only the city communication interruption, but also caused interruption between other cities, then equipped with spare switches. Respectively, for the previous (1) and (2) two cases of the establishment of the communication network, marked with the need to provide spare switches in the city.
+
+
+(by Chinese):
 
 构建连通n个城市的通讯网络。
 
